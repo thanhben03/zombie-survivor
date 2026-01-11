@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bac5f3808a10e96429aceec88d6110e1, type: 3}
+  m_Name: RifleData
+  m_EditorClassIdentifier: 
+  weaponName: AKM2
+  weaponType: AKM
+  weaponPrefab: {fileID: 1692574000006865830, guid: 8e148236ee0b3de439290009f29053d1,
+    type: 3}
+  holdOffsetPos: {x: 0, y: 0, z: 0}
+  holdOffsetRot: {x: 0, y: 0, z: 0}
+  reloadSound: {fileID: 8300000, guid: 9328276f081437b4088c045e26bdedd0, type: 3}
+  gunSound: {fileID: 8300000, guid: 95e11325ee8442f418f6169341e13aff, type: 3}
+  damage: 20
+  fireRate: 15
+  maxAmmo: 100
+  mag: 13

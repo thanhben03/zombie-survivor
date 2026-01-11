@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bac5f3808a10e96429aceec88d6110e1, type: 3}
+  m_Name: PistolData
+  m_EditorClassIdentifier: 
+  weaponName: Pistol2
+  weaponType: PISTOL
+  weaponPrefab: {fileID: 8650422502314643907, guid: 3bd24d3172c10444c8807cb1e772cbe4,
+    type: 3}
+  holdOffsetPos: {x: 0.027, y: -0.001, z: 0.087}
+  holdOffsetRot: {x: 0, y: 180, z: 0}
+  reloadSound: {fileID: 8300000, guid: b32e80a77e26d2343b39fb98c02b3956, type: 3}
+  gunSound: {fileID: 8300000, guid: c1d571a05c537694f9b60feb3cd0cc11, type: 3}
+  damage: 5
+  fireRate: 15
+  maxAmmo: 30
+  mag: 10

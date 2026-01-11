@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PistoAnimOverride
+  m_Controller: {fileID: 9100000, guid: 2090285160640ed458bcecc9fa929c99, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 90048d62746f0b047be65f46b19ae444,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 764bb6bc00534684bb0b09db6d319cd4,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 7dc6e7203bc82454bae9153c6d4e94e8,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: b7bb4078499eddb46bbeb6b55b415413,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 2640ccb2206492f47a517adc5b05e2e8,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 3e6334844a381ba48bb6e6672dcac9c7,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: cf1ee122bbe3c6046a4a79addea2a559,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 78b0fb270ea3eba4e8dc27058f2f1336,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 11582593282c85c4a9dec8bd27054ff8,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: b7bb4078499eddb46bbeb6b55b415413,
+      type: 3}
